@@ -1,6 +1,6 @@
 ## Adding this file to check if crashpad is can be found by the project
 
-# To make the project:
+### To make the project:
 
 ```
     mkdir build && cd build
